@@ -34,7 +34,7 @@ no decorrer do programa <b>Explorer</b>.
 
 🕛 **Status:** Em andamento✔️
 
-🌎 **Result Preview: [Veja o Projeto]()**
+🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Mobile-First/)**
 
 ☑️ **Task:** Construir um site estático a partir do projeto feito no [Figma](https://www.figma.com/?msclkid=693c810ebe8911eca011029d246e9391).
 
