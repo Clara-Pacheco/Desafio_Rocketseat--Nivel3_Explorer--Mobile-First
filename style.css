@@ -1,5 +1,23 @@
 :root {
   font-size: 62.5%; /*10px*/
+
+  /*VARIABLES*/
+
+  /*color*/
+
+  --color-header:  #8E9AAF;
+  --color-bg-h1: #CBC0D3;
+  --color-h1: #ffffff;
+  --color-bg-main: #EFF1FF;
+  --color-main-p: #23053A; 
+  --color-figcaption: #4A4E69;
+  --color-bg-figcaption: #FEEAFA;
+
+
+  /*Font-family*/
+  --ff-heading: 'Staatliches', cursive;
+  --ff-texting: 'Palanquin', sans-serif;
+
 }
 
 body {
@@ -13,15 +31,15 @@ body {
 header {
   max-width: 38.4rem;
   height: 27.9rem;
-  background-color: #8E9AAF;
+  background-color: var(--color-header);
 
-  font-family: 'Staatliches', cursive;
+  font-family: var(--ff-heading);
   font-weight: 400;
   font-size: 4.0rem;
   line-height: 3.4rem;
   letter-spacing: 5%;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: var(--color-h1);
 
   display: flex;
   flex-direction: column;
@@ -33,7 +51,7 @@ header {
 .purple-background {
   width: 38.4rem;
   height: 4.9rem;
-  background-color: #CBC0D3;
+  background-color: var(--color-bg-h1);
   text-align: center;
 
   box-sizing: border-box;
@@ -44,7 +62,7 @@ header {
 main {
   max-width: 38.4rem;
   height: 171.7rem;
-  background-color: #EFF1FF;
+  background-color: var(--color-bg-main);
 
 }
 
@@ -60,11 +78,11 @@ main  p {
   max-width: 30.5rem;
   height: 7.5rem;
 
-  font-family: 'Palanquin', sans-serif;
+  font-family: var(--ff-texting);
   font-weight: 400;
   font-size: 1.2rem;
   line-height: 1.5rem;
-  color: #23053A;
+  color: var(--color-main-p);
   text-align: center;
 
   padding-top: 1.4rem;
@@ -84,7 +102,7 @@ figcaption {
   max-width: 11.2rem;
   height: 3.5rem;
   border-radius: 2.0rem;
-  background-color: #FEEAFA;
+  background-color: var(--color-bg-figcaption);
 
   position: absolute;
   top: 1.6rem;
@@ -92,12 +110,12 @@ figcaption {
   right: 1.6rem;
   bottom: 19.9rem;
 
-  font-family: 'Staatliches', cursive;
+  font-family: var(--ff-heading);
   font-weight: 400;
   font-size: 2rem;
   line-height: 3.4rem;
   letter-spacing: 5%;
-  color: #4A4E69;
+  color: var(--color-figcaption);
   text-align: center;
 }
 
