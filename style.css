@@ -125,6 +125,20 @@ figcaption {
   margin-top: 3.2rem;
 }
 
+img {
+  transition: transform 20mms;
+}
+
+.sorvete img:hover,
+.shakes img:hover,
+.massa img:hover,
+.picoles img:hover {
+  transform: scale(1.1);
+ 
+}
+
+
+
 .shakes figcaption,
 .massa figcaption,
 .picoles figcaption {
