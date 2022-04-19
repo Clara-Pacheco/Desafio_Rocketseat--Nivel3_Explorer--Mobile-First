@@ -1,0 +1,118 @@
+:root {
+  font-size: 62.5%; /*10px*/
+}
+
+body {
+  max-width: 38.4rem;
+  height: 199.5rem;
+  margin: auto;
+
+ font-size: 1.6 rem;
+}
+
+header {
+  max-width: 38.4rem;
+  height: 27.9rem;
+  background-color: #8E9AAF;
+
+  font-family: 'Staatliches', cursive;
+  font-weight: 400;
+  font-size: 4.0rem;
+  line-height: 3.4rem;
+  letter-spacing: 5%;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.purple-background {
+  width: 38.4rem;
+  height: 4.9rem;
+  background-color: #CBC0D3;
+  text-align: center;
+
+  box-sizing: border-box;
+  padding-top: 8px;
+ 
+}
+
+main {
+  max-width: 38.4rem;
+  height: 171.7rem;
+  background-color: #EFF1FF;
+
+}
+
+.wrapper {
+  max-width: 32.0rem;
+  height: 164.2rem;
+  border-radius: 2rem;
+  margin: auto; 
+
+}
+
+main  p {
+  max-width: 30.5rem;
+  height: 7.5rem;
+
+  font-family: 'Palanquin', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  color: #23053A;
+  text-align: center;
+
+  padding-top: 1.4rem;
+  margin-bottom: 6.3rem;
+
+}
+
+.sorvete,
+.shakes,
+.massa,
+.picoles {
+  position: relative;
+}
+
+figcaption {
+
+  max-width: 11.2rem;
+  height: 3.5rem;
+  border-radius: 2.0rem;
+  background-color: #FEEAFA;
+
+  position: absolute;
+  top: 1.6rem;
+  left: 19.2rem;
+  right: 1.6rem;
+  bottom: 19.9rem;
+
+  font-family: 'Staatliches', cursive;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 3.4rem;
+  letter-spacing: 5%;
+  color: #4A4E69;
+  text-align: center;
+}
+
+.shakes img,
+.massa img,
+.picoles img {
+  margin-top: 3.2rem;
+}
+
+.shakes figcaption,
+.massa figcaption,
+.picoles figcaption {
+  margin-top: 3.2rem;
+}
+
+
+
+
