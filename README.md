@@ -13,10 +13,14 @@
 
 # 💻 Projeto 
 
-![Screenshot of the final project](
+![Gif of the final project](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel3_Explorer--Mobile-First/blob/main/assets/Mobile-first-Google-Chrome-2022-04-19-06-45-02.gif)
 
 ## 🧪 Tecnologias | HTML e CSS
 ---
+- Mobile First
+- Unidade de medida flexível
+- Variáveis
+- Animações simples
 
 ##  📕 Sobre  
 
