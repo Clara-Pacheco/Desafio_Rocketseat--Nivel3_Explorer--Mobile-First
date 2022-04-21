@@ -32,7 +32,7 @@ no decorrer do programa <b>Explorer</b>.
 
 📅 **19.04.2022**
 
-🕛 **Status:** Em andamento✔️
+🕛 **Status:** Concluído✔️
 
 🌎 **Result Preview: [Veja o Projeto](https://clara-pacheco.github.io/Desafio_Rocketseat--Nivel3_Explorer--Mobile-First/)**
 
